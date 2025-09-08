@@ -1,0 +1,10 @@
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\bin\Debug\Lab7.exe
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\bin\Debug\Lab7.pdb
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.exe
+C:\Users\PendalfSeri\Desktop\Учеба\Lab7\obj\Debug\Lab7.pdb
